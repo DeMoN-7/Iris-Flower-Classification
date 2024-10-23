@@ -1,4 +1,4 @@
-Here’s the final **README** file with the "Model" section removed:
+
 
 ```markdown
 # Iris Flower Classification 🌸
@@ -65,4 +65,3 @@ This will train the model and display the evaluation metrics like accuracy, conf
 Feel free to contribute to this project by submitting a pull request or reporting issues!
 ```
 
-This version now focuses on the project overview, dataset, installation, and usage, without mentioning the model details. Let me know if any further edits are needed!
